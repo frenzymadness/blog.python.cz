@@ -113,7 +113,7 @@ Two contact persons (male and female) were assigned.
 
 Attendees were reminded of the Code in the opening speech of each day and on the badge they were wearing.
 
-One incident regarding tasteless commentary about a different programming language during a presentation was reported this year. The reporter was assured PyCon CZ doesn’t identify with the message. Next day MC emphasized we all should treat each other nice. The staff followed up with the presenter about the inappropriate remark. Presenter expressed an apology on their social networks after the conference.
+One incident regarding tasteless commentary about a different programming language during a presentation was reported this year. The reporter was assured PyCon CZ doesn’t identify with the message. In the next day's announcements, we emphasized we all should treat each other nice. The staff followed up with the presenter about the inappropriate remark. Presenter expressed an apology on their social networks after the conference.
 
 ## Catering
 
